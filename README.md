@@ -11,7 +11,7 @@ examples and to share your experience and knowledge about Kameleon and
 reproducible build in general.
 
 The Kameleon will provides some steps but every users are encouraged to
-share their experiences on the wiki or using issues and their code with
+share their experiences on the [wiki](https://github.com/oar-team/kameleon-contrib/wiki) or using issues and their code with
 pull requests.
 
 Pull requests are very welcomed :)
